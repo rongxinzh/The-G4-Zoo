@@ -10,6 +10,8 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 ![#publications for G4 detection tools](https://github.com/rongxinzh/The-G4-Zoo/blob/main/images/%23publications%20for%20G4%20detection%20tools.PNG)
 
+#### Software collection
+
 - DeepG4 - Web version not available, [Local version(R)](https://github.com/morphos30/DeepG4), [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009308)
 
 - G4detector - Web version not available, [Local verison(Python)](https://github.com/OrensteinLab/G4detector), [Paper](https://ieeexplore.ieee.org/abstract/document/9408415)
