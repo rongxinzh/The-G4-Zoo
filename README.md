@@ -58,7 +58,7 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 ### Contact
 
-If you have any questions, feel free to contact me. (I may miss some software, as these are manually organized)
+If you have any questions, please feel free to contact me. (I may have missed some software, as these are manually organized)
 
 rongxinzhang@seu.edu.cn
 
