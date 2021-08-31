@@ -1,6 +1,6 @@
 ### The G4  Zoo
 
-------
+---
 
 G-quadruplex, one of the non-canonical nucleic acid secondary structures, is associated with many biological functions, such as the regulation of replication and transcription et al. 
 
