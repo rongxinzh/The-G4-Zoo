@@ -1,8 +1,5 @@
 ## The G4  Zoo
 
-
-***
-
 G-quadruplex, one of the non-canonical nucleic acid secondary structures, is associated with many biological functions, such as the regulation of replication and transcription et al. 
 
 G-quadruplexes follow specific patterns, which were called G4 motifs. However, due to the structural diversity, there exist many non-standard G4s. And powerful or robust methods are needed to predict or detect the potential G-quadruplexes in any sequences.
@@ -11,11 +8,7 @@ Here, we collect the commonly used G4 detection or prediction tools, which are p
 
 Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hindupuravinash/the-gan-zoo), we designate it as The G4 Zoo. We hope that more and more researchers can join the development of G4-associated tools, and we hope that this list can help you with your research.
 
-***
-
 ![#publications for G4 detection tools](https://github.com/rongxinzh/The-G4-Zoo/blob/main/images/%23publications%20for%20G4%20detection%20tools.PNG)
-
-***
 
 - DeepG4 - Web version not available, [Local version(R)](https://github.com/morphos30/DeepG4), [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009308)
 
@@ -60,8 +53,6 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 - Quadfinder - [Web version](http://miracle.igib.res.in/quadfinder/), Local version not available, [Paper](https://academic.oup.com/nar/article/34/suppl_2/W683/2505703)
 
 - Quadparser - Not available, [Paper](https://academic.oup.com/nar/article/33/9/2908/2401500)
-
-***
 
 ### Contact
 
