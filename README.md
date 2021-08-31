@@ -1,4 +1,4 @@
-## The G4  Zoo
+# The G4  Zoo
 
 G-quadruplex, one of the non-canonical nucleic acid secondary structures, is associated with many biological functions, such as the regulation of replication and transcription et al. 
 
@@ -10,7 +10,7 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 ![#publications for G4 detection tools](https://github.com/rongxinzh/The-G4-Zoo/blob/main/images/%23publications%20for%20G4%20detection%20tools.PNG)
 
-#### Software collection
+### Software collection
 
 - DeepG4 - Web version not available, [Local version(R)](https://github.com/morphos30/DeepG4), [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009308)
 
