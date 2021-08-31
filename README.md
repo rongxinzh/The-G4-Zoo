@@ -32,11 +32,11 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 - G4PromFinder - Web version not available, [Local version(Python)](https://github.com/MarcoDiSalvo90/G4PromFinder), [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2049-x)
 
-- Quadron - Web version not available, [Local version(R)](https://github.com/aleksahak/Quadron), [Paper](
+- Quadron - Web version not available, [Local version(R)](https://github.com/aleksahak/Quadron), [Paper](https://www.nature.com/articles/s41598-017-14017-4)
 
 - ImGQfinder - [Web version](http://imgqfinder.niifhm.ru/), [Local version(Python)](https://github.com/PollyTikhonova/ImGQfinder), [Paper](https://www.sciencedirect.com/science/article/pii/S0300908416303182)
 
-- allquads - Web version not available, [Local verison(Perl)](https://journals.plos.org/plosone/article/file?type=supplementary&id=info:doi/10.1371/journal.pone.0146174.s001), [Paper](
+- allquads - Web version not available, [Local verison(Perl)](https://journals.plos.org/plosone/article/file?type=supplementary&id=info:doi/10.1371/journal.pone.0146174.s001), [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146174)
 
 - g4predict - Web version not available, [Local version(Python)](https://github.com/mparker2/g4predict), Paper not available
 
