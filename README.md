@@ -6,7 +6,7 @@ G-quadruplexes follow specific patterns, which were called G4 motifs. However, d
 
 Here, we collect the commonly used G4 detection or prediction tools, which are published in convinced journals and are easy to use. We will keep updating the list of G4 detection tools.
 
-Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hindupuravinash/the-gan-zoo), we designate it as The G4 Zoo. We hope that more and more researchers can join the development of G4-associated tools, and we hope that this list can help you with your research.
+Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hindupuravinash/the-gan-zoo), we designate it as ***The G4 Zoo***. We hope that more and more researchers can join the development of G4-associated tools, and we hope that this list can help you with your research.
 
 ![#publications for G4 detection tools](https://github.com/rongxinzh/The-G4-Zoo/blob/main/images/%23publications%20for%20G4%20detection%20tools.PNG)
 
