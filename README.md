@@ -12,7 +12,7 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 ------
 
-![#publications for G4 detection tools](.\\images\\#publications for G4 detection tools.PNG)
+![#publications for G4 detection tools](./images/#publications for G4 detection tools.PNG)
 
 ------
 
