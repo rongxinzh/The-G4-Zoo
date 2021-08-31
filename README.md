@@ -1,4 +1,4 @@
-### The G4  Zoo
+## The G4  Zoo
 
 ------
 
@@ -15,8 +15,6 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 ![#publications for G4 detection tools](https://github.com/rongxinzh/The-G4-Zoo/blob/main/images/%23publications%20for%20G4%20detection%20tools.PNG)
 
 ------
-
-
 
 - DeepG4 - Web version not available, [Local version(R)](https://github.com/morphos30/DeepG4), [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009308)
 
@@ -62,9 +60,7 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 - Quadparser - Not available, [Paper](https://academic.oup.com/nar/article/33/9/2908/2401500)
 
-  ------
-
-  
+------
 
 ### Contact
 
