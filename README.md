@@ -4,9 +4,9 @@ G-quadruplex, one of the non-canonical nucleic acid secondary structures, is ass
 
 G-quadruplexes follow specific patterns, which were called G4 motifs. However, due to the structural diversity, there exist many non-standard G4s. And powerful or robust methods are needed to predict or detect the potential G-quadruplexes in any sequences.
 
-Here, we collect the commonly used G4 detection or prediction tools, which are published in convinced journals and are easy to use. We will keep updating the list of G4 detection tools.
+Here, we collected the commonly used G4 detection or prediction tools, which were published in convinced journals and were easy to use. We will keep updating the list of G4 detection tools.
 
-Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hindupuravinash/the-gan-zoo), we designate it as ***The G4 Zoo***. We hope that more and more researchers can join the development of G4-associated tools, and we hope that this list can help you with your research.
+Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hindupuravinash/the-gan-zoo), we designate it as ***The G4 Zoo***. We hope that this list can help you with your research.
 
 ### Software collection
 
@@ -58,7 +58,7 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 ### Contact
 
-If you have any questions, please feel free to contact me. (I may have missed some software, as these are manually organized)
+If you have any questions, please feel free to contact me. (I may have missed some software, as they were manually organized)
 
 rongxinzhang@seu.edu.cn
 
