@@ -2,7 +2,7 @@
 
 G-quadruplex, one of the non-canonical nucleic acid secondary structures, is associated with many biological functions, such as the regulation of replication and transcription et al. 
 
-G-quadruplexes follow specific patterns, which were called G4 motifs. However, due to the structural diversity, there exist many non-standard G4s. And powerful or robust methods are needed to predict or detect the potential G-quadruplexes in any sequences.
+G-quadruplexes follow specific patterns, which were called G4 motifs. However, due to the structural diversity, there exist many non-standard G4s. Therefore, the powerful or robust methods/tools are needed to predict or detect the potential G-quadruplex structures in any given sequences.
 
 Here, we collected the commonly used G4 detection or prediction tools, which were published in convinced journals and were easy to use. We will keep updating the list of G4 detection tools.
 
