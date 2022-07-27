@@ -8,9 +8,9 @@ Here, we collect the commonly used G4 detection or prediction tools, which are p
 
 Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hindupuravinash/the-gan-zoo), we designate it as ***The G4 Zoo***. We hope that more and more researchers can join the development of G4-associated tools, and we hope that this list can help you with your research.
 
-![#publications for G4 detection tools](https://github.com/rongxinzh/The-G4-Zoo/blob/main/images/%23publications%20for%20G4%20detection%20tools.PNG)
-
 ### Software collection
+
+- G4Boost - Web version not available, [Local verison(Python)](https://github.com/hbusra/G4Boost), [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04782-z)
 
 - DeepG4 - Web version not available, [Local version(R)](https://github.com/morphos30/DeepG4), [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009308)
 
@@ -62,5 +62,5 @@ If you have any questions, please feel free to contact me. (I may have missed so
 
 rongxinzhang@seu.edu.cn
 
-Last update: August 31, 2021
+Last update: July 27, 2022
 
