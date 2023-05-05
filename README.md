@@ -10,6 +10,10 @@ Inspired by [The GAN (Generative Adversarial Network) Zoo](https://github.com/hi
 
 ### Software collection
 
+- G4mismatch - Web version not available, [Local verison(Python)](https://github.com/OrensteinLab/G4mismatch/), [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010948)
+
+- G4Beacon - Web version not available, [Local verison(Python)](https://github.com/Bocabbage/G4Beacon), [Paper](https://www.mdpi.com/2218-273X/13/2/292)
+
 - rG4detector - Web version not available, [Local verison(Python)](https://github.com/OrensteinLab/rG4detector), [Paper](https://dl.acm.org/doi/abs/10.1145/3535508.3545534)
 
 - G4Boost - Web version not available, [Local verison(Python)](https://github.com/hbusra/G4Boost), [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04782-z)
@@ -64,5 +68,5 @@ If you have any questions, please feel free to contact me. (I may have missed so
 
 rongxinzhang@seu.edu.cn
 
-Last update: August 2, 2022
+Last update: May, 2023
 
